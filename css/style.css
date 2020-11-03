@@ -1,0 +1,26 @@
+h2{
+    color:blue;
+    padding-left:37%;
+}
+
+body{
+    background-color: white;
+    color: black;
+
+    font: normal 14px Arial, Helvetica, sans-serif;
+    line-height: 1.2em;
+}
+
+.clickMeButton{
+    color: red;
+}
+
+.text{
+    background-color: darksalmon;
+    padding: 10px;
+}
+
+.container{
+    width: 76%;
+    margin: auto;
+}
